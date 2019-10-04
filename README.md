@@ -1,2 +1,2 @@
-# seroclinx_data_visualization
+# Seroclinx Data Visualization
 Iris data visualization using R Shiny
